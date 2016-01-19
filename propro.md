@@ -12,6 +12,20 @@ This extension is hosted at [PECL](http://pecl.php.net) and can be installed wit
 
     # pecl install propro
 
+### PHARext
+
+Watch out for [PECL replicates](https://replicator.pharext.org?propro)
+and pharext packages attached to [releases](https://github.com/m6w6/ext-propro/releases).
+
+### Checkout
+
+	git clone github.com:m6w6/ext-propro
+	cd ext-propro
+	/path/to/phpize
+	./configure --with-php-config=/path/to/php-config
+	make
+	sudo make install
+
 ## Internals:
 
 > ***NOTE:***

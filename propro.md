@@ -30,4 +30,4 @@ and pharext packages attached to [releases](https://github.com/m6w6/ext-propro/r
 
 > ***NOTE:***
   This extension mostly only provides infrastructure for other extensions.
-  See the [API docs here](http://php.github.io/pecl-php-propro/).
+  See the [API docs here](http://m6w6.github.io/ext-propro/master/).

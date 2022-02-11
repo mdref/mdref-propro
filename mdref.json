@@ -1,0 +1,21 @@
+{
+    "name": "propro",
+    "origin": "github.com/mdref/mdref-propro",
+    "branch": "master",
+    "editUrl": "https://github.com/mdref/mdref-propro/edit/master/%s.md",
+    "commentProvider": {
+        "giscus": {
+            "data": {
+                "repo": "mdref/mdref-propro",
+                "category": "Comments",
+                "repo-id": "MDEwOlJlcG9zaXRvcnkxNDU1ODc2NQ==",
+                "category-id": "DIC_kwDOAN4mLc4CBHtt",
+                "mapping": "pathname",
+                "input-position": "bottom",
+                "reactions-enabled": false,
+                "theme": "light",
+                "lang": "en"
+            }
+        }
+    }
+}
